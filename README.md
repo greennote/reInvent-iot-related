@@ -14,6 +14,6 @@ re:Invent 2020で行われたIoT関連の講演はAWSから公式に[リスト�
 
 見逃し、勘違いなどあるかと思います。何か気付いたことがあればIssue、PRなどお寄せください。
 
-## For English and Japanese bilingual speakers
+## For English speakers
 
 English version of this page is [here](README_en.md). Please check and correct our linguistic errors. Thanks!
