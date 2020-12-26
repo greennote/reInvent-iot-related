@@ -1,0 +1,29 @@
+type,serviceName,description,status,URL
+Feature,AWS Wavelength,Comes to Tokyo Region (ap-northeast-1),GA,https://aws.amazon.com/jp/about-aws/whats-new/2020/12/aws-announces-general-availability-aws-wavelength-tokyo/
+NService,AWS Location,Location Service,Public preview,https://aws.amazon.com/jp/location/
+Feature,AWS IoT Greengrass,"Supported version 2.0 ",GA,https://aws.amazon.com/jp/about-aws/whats-new/2020/12/aws-iot-greengrass-2-0-provides-open-source-edge-runtime-capabilities-building-operating-iot-device-software/
+NService,AWS IoT Core for LoRaWAN,Mananged LoRaWAN network server,GA（not supported at Tokyo）,https://aws.amazon.com/jp/about-aws/whats-new/2020/12/introducing-aws-iot-core-lorawan/
+NService,FreeRTOS,LTS (Long time support),GA,https://aws.amazon.com/jp/about-aws/whats-new/2020/12/announcing-freertos-long-term-support/
+NService,AWS IoT EduKit,IoT education kit,GA,https://aws.amazon.com/jp/about-aws/whats-new/2020/12/introducing-aws-iot-edukit/
+NService,Amazon Lookout for Equipment,AWS ML can be applied to the existing sensor data,Private preview,https://aws.amazon.com/jp/lookout-for-equipment/
+NService,Amazon Lookout for Vision,Failure detection fron the existing pictures,Public preview,https://aws.amazon.com/jp/lookout-for-vision/
+NService,AWS Panorama Appliance,Image analysis system installed on premise,Public preview,https://aws.amazon.com/jp/panorama/
+NService,Amazon Monitron,Pre-configured sensors and edge server,GA（not supported at Tokyo）,https://aws.amazon.com/jp/monitron/
+Feature,AWS IoT SiteWise,Supported table view,GA,https://aws.amazon.com/jp/iot-sitewise/
+NService,AWS IoT Core Device Advisor,Full-managed device test environment,Public preview,https://aws.amazon.com/jp/about-aws/whats-new/2020/12/aws-iot-core-device-advisor-now-available-in-preview/
+Feature,AWS IoT Core,Data streaming to Apache Kafka,GA,https://aws.amazon.com/jp/about-aws/whats-new/2020/12/aws-iot-core-adds-the-ability-to-deliver-data-to-apache-kafka-clusters/
+Feature,AWS IoT Core,Sopported Amazon Sidewalk,GA（not supported at Tokyo）,https://aws.amazon.com/jp/about-aws/whats-new/2020/12/announcing-amazon-sidewalk-integration-for-aws-iot-core/
+Feature,AWS IoT SiteWise,Add protocol can be handled,GA,https://aws.amazon.com/jp/about-aws/whats-new/2020/12/aws-iot-sitewise-launches-support-for-modbus-tcp-ethernet-ip-protocols/
+NService,AWS IoT SiteWise Edge,SiteWise in edge,Public preview,https://aws.amazon.com/jp/about-aws/whats-new/2020/12/announcing-aws-iot-sitewise-edge-preview/
+NService,AWS IoT SiteWise plugin for Grafana,Grafana ingegration,GA,https://aws.amazon.com/jp/about-aws/whats-new/2020/12/introducing-aws-iot-sitewise-plugin-for-grafana/
+Feature,AWS IoT Analytics,Support Apache Parquet,GA,https://aws.amazon.com/jp/about-aws/whats-new/2020/12/aws-iot-analytics-store-processed-iot-data-data-stores-apache-parquet-format/
+Feature,AWS IoT Analytics,Enhanced error handling,GA,https://aws.amazon.com/jp/about-aws/whats-new/2020/12/enhanced-error-handling-capabilities-in-aws-iot-analytics-data-processing-pipelines/
+Feature,AWS IoT Device Management,"Fleet Hub (management, visualization, etc)",Public preview,https://aws.amazon.com/jp/about-aws/whats-new/2020/12/aws-iot-device-management-introduces-fleet-hub/
+NService,AWS IoT Device Defender ML Detect,Automated anomaly detection from device usage,GA,https://aws.amazon.com/jp/about-aws/whats-new/2020/12/announcing-aws-iot-device-defender-ml-detect-public-preview/
+Feature,AWS IoT Device Defender,Support custom metrics,GA,https://aws.amazon.com/jp/about-aws/whats-new/2020/12/aws-iot-device-defender-adds-support-for-custom-metrics/
+Feature,AWS IoT Events/SiteWise,Support alerms,Public preview,https://aws.amazon.com/jp/about-aws/whats-new/2020/12/announcing-support-alarms-preview-aws-iot-events-aws-iot-sitewise/
+Feature,AWS SiteWise,Support alerms,Public preview,https://aws.amazon.com/jp/about-aws/whats-new/2020/12/announcing-support-alarms-preview-aws-iot-events-aws-iot-sitewise/
+Feature,FreeRTOS,Support cellular LTE-M,Public preview,https://aws.amazon.com/jp/about-aws/whats-new/2020/12/freertos-adds-cellular-lte-m-library-support-cellular-iot-based-applications/
+Feature,AWS IoT Device SDK for Embedded C,Version 202012.00 released,GA,https://aws.amazon.com/jp/about-aws/whats-new/2020/12/aws-iot-sdk-for-embedded-c-version-202012-00-includes-over-the-air-update-ota-library-and-pkcs-number-11-implementation/
+NService,AWS CloudShell,Shell console from management console,GA,https://aws.amazon.com/jp/blogs/news/aws-cloudshell-command-line-access-to-aws-resources/
+Feature,AWS SDK for JavaScript,Version 3 released,GA,https://aws.amazon.com/jp/about-aws/whats-new/2020/12/aws-sdk-javascript-version-3-generally-available/

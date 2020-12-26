@@ -1,6 +1,6 @@
 # 【非公式】re:Invent 2020 IoT関連発表リスト
 
-re:Invent 2020では大量の発表がありましたが、その中からIoT関連のものを収集しました。
+re:Invent 2020では大量の発表がありましたが、その中からIoT関連のものを収集しました。[リスト](re_Invent_2020_IoT.csv)はこちらにあります。
 
 ## ご注意
 
@@ -13,3 +13,7 @@ re:Invent 2020で行われたIoT関連の講演はAWSから公式に[リスト�
 ## 協力のお願い
 
 見逃し、勘違いなどあるかと思います。何か気付いたことがあればIssue、PRなどお寄せください。
+
+## For English and Japanese bilingual speakers
+
+English version of this page is [here](README_en.md). Please check and correct our linguistic errors. Thanks!
