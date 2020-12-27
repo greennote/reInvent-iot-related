@@ -16,4 +16,4 @@ Issues and pull requests are welcome!
 
 ## For English speakers
 
-Almost og all translation of this site is done by Amazon transcribe. Please check and correct  errors. Thanks!
+Almost of all translation of this site is done by Amazon transcribe. Please check and correct  errors. Thanks!
