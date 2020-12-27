@@ -6,6 +6,16 @@ re:Invent 2020では大量の発表がありましたが、その中からIoT関
 
 このリストは公式のものではありません。記載されている情報の正確さについては保証しません。サービスや機能の利用に当たっては、必ずAWS公式の資料を参照してください。
 
+## 変更履歴
+
+* 2020/12/27
+  * 下記の新サービス／新機能を追加
+    * Amazon Forecast Weather Index
+    * Amazon Corretto 11のARMv7、x86サポート
+    * AWS IoT Device Tester for FreeRTOSのFreeRTOS 202012.00サポート
+    * AWS IoT Device Tester for AWS IoT GreengrassのGreengrass Version 2サポート
+    * FreeRTOSがOTA時の複数ファイルを形式サポート
+
 ## 関連情報
 
 re:Invent 2020で行われたIoT関連の講演はAWSから公式に[リストが公開されています](https://d1.awsstatic.com/IoT/AWS-IoT-reInvent-Sessions.pdf)。ぜひこちらもご覧ください。

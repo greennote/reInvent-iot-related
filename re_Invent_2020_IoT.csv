@@ -1,29 +1,34 @@
-種別,名称,内容,ステータス,URL
-新機能,AWS Wavelength,東京リージョンサービス開始,GA,https://aws.amazon.com/jp/about-aws/whats-new/2020/12/aws-announces-general-availability-aws-wavelength-tokyo/
-新サービス,AWS Location,位置情報活用,パブリックプレビュー,https://aws.amazon.com/jp/location/
-新機能,AWS IoT Greengrass,Version 2.0,GA,https://aws.amazon.com/jp/about-aws/whats-new/2020/12/aws-iot-greengrass-2-0-provides-open-source-edge-runtime-capabilities-building-operating-iot-device-software/
-新サービス,AWS IoT Core for LoRaWAN,マネージドLoRaWANネットワークサーバ,GA（東京以外）,https://aws.amazon.com/jp/about-aws/whats-new/2020/12/introducing-aws-iot-core-lorawan/
-新サービス,FreeRTOS,LTS開始,GA,https://aws.amazon.com/jp/about-aws/whats-new/2020/12/announcing-freertos-long-term-support/
-新サービス,AWS IoT EduKit,IoT教育,GA,https://aws.amazon.com/jp/about-aws/whats-new/2020/12/introducing-aws-iot-edukit/
-新サービス,Amazon Lookout for Equipment,既存センサーデータにAWSのMLを摘要,プライベートプレビュー,https://aws.amazon.com/jp/lookout-for-equipment/
-新サービス,Amazon Lookout for Vision,画像から欠陥・異常を検出,パブリックプレビュー,https://aws.amazon.com/jp/lookout-for-vision/
-新サービス,AWS Panorama Appliance,現地に設置する画像解析システム,パブリックプレビュー,https://aws.amazon.com/jp/panorama/
-新サービス,Amazon Monitron,センサー+ゲートウェイの完成品,GA（東京以外）,https://aws.amazon.com/jp/monitron/
-新機能,AWS IoT SiteWise,テーブルチャートが利⽤可能に,GA,https://aws.amazon.com/jp/iot-sitewise/
-新サービス,AWS IoT Core Device Advisor,フルマネージドのデバイステスト,パブリックプレビュー,https://aws.amazon.com/jp/about-aws/whats-new/2020/12/aws-iot-core-device-advisor-now-available-in-preview/
-新機能,AWS IoT Core,Apache Kafkaへのデータ配信に対応,GA,https://aws.amazon.com/jp/about-aws/whats-new/2020/12/aws-iot-core-adds-the-ability-to-deliver-data-to-apache-kafka-clusters/
-新機能,AWS IoT Core,Amazon Sidewalkに対応,GA（東京以外）,https://aws.amazon.com/jp/about-aws/whats-new/2020/12/announcing-amazon-sidewalk-integration-for-aws-iot-core/
-新機能,AWS IoT SiteWise,対応プロトコルを拡充,GA,https://aws.amazon.com/jp/about-aws/whats-new/2020/12/aws-iot-sitewise-launches-support-for-modbus-tcp-ethernet-ip-protocols/
-新サービス,AWS IoT SiteWise Edge,エッジ側でSiteWiseの前処理を行う,パブリックプレビュー,https://aws.amazon.com/jp/about-aws/whats-new/2020/12/announcing-aws-iot-sitewise-edge-preview/
-新サービス,AWS IoT SiteWise plugin for Grafana,SiteWiseからGrafanaに連携して可視化,GA,https://aws.amazon.com/jp/about-aws/whats-new/2020/12/introducing-aws-iot-sitewise-plugin-for-grafana/
-新機能,AWS IoT Analytics,Apache Parquet形式をサポート,GA,https://aws.amazon.com/jp/about-aws/whats-new/2020/12/aws-iot-analytics-store-processed-iot-data-data-stores-apache-parquet-format/
-新機能,AWS IoT Analytics,エラーハンドリング機能を強化,GA,https://aws.amazon.com/jp/about-aws/whats-new/2020/12/enhanced-error-handling-capabilities-in-aws-iot-analytics-data-processing-pipelines/
-新機能,AWS IoT Device Management,Fleet Hub（フリート管理、可視化）,パブリックプレビュー,https://aws.amazon.com/jp/about-aws/whats-new/2020/12/aws-iot-device-management-introduces-fleet-hub/
-新サービス,AWS IoT Device Defender ML Detect,MLによる自動異常検出,GA,https://aws.amazon.com/jp/about-aws/whats-new/2020/12/announcing-aws-iot-device-defender-ml-detect-public-preview/
-新機能,AWS IoT Device Defender,カスタムメトリクス対応,GA,https://aws.amazon.com/jp/about-aws/whats-new/2020/12/aws-iot-device-defender-adds-support-for-custom-metrics/
-新機能,AWS IoT Events/SiteWise,アラームに対応,パブリックプレビュー,https://aws.amazon.com/jp/about-aws/whats-new/2020/12/announcing-support-alarms-preview-aws-iot-events-aws-iot-sitewise/
-新機能,AWS SiteWise,アラームに対応,パブリックプレビュー,https://aws.amazon.com/jp/about-aws/whats-new/2020/12/announcing-support-alarms-preview-aws-iot-events-aws-iot-sitewise/
-新機能,FreeRTOS,セルラーLTE-Mをサポート,パブリックプレビュー,https://aws.amazon.com/jp/about-aws/whats-new/2020/12/freertos-adds-cellular-lte-m-library-support-cellular-iot-based-applications/
-新機能,AWS IoT Device SDK for Embedded C,バージョン202012.00リリース,GA,https://aws.amazon.com/jp/about-aws/whats-new/2020/12/aws-iot-sdk-for-embedded-c-version-202012-00-includes-over-the-air-update-ota-library-and-pkcs-number-11-implementation/
-新サービス,AWS CloudShell,コンソールから起動可能なシェル,GA,https://aws.amazon.com/jp/blogs/news/aws-cloudshell-command-line-access-to-aws-resources/
-新機能,AWS SDK for JavaScript,Version 3提供開始,GA,https://aws.amazon.com/jp/about-aws/whats-new/2020/12/aws-sdk-javascript-version-3-generally-available/
+種別,名称,内容,ステータス,URL,追加日
+新機能,AWS Wavelength,東京リージョンサービス開始,GA,https://aws.amazon.com/jp/about-aws/whats-new/2020/12/aws-announces-general-availability-aws-wavelength-tokyo/,2020/12/26
+新サービス,AWS Location,位置情報活用,パブリックプレビュー,https://aws.amazon.com/jp/location/,2020/12/26
+新機能,AWS IoT Greengrass,Version 2.0,GA,https://aws.amazon.com/jp/about-aws/whats-new/2020/12/aws-iot-greengrass-2-0-provides-open-source-edge-runtime-capabilities-building-operating-iot-device-software/,2020/12/26
+新サービス,AWS IoT Core for LoRaWAN,マネージドLoRaWANネットワークサーバ,GA（東京以外）,https://aws.amazon.com/jp/about-aws/whats-new/2020/12/introducing-aws-iot-core-lorawan/,2020/12/26
+新サービス,FreeRTOS,LTS開始,GA,https://aws.amazon.com/jp/about-aws/whats-new/2020/12/announcing-freertos-long-term-support/,2020/12/26
+新サービス,AWS IoT EduKit,IoT教育,GA,https://aws.amazon.com/jp/about-aws/whats-new/2020/12/introducing-aws-iot-edukit/,2020/12/26
+新サービス,Amazon Lookout for Equipment,既存センサーデータにAWSのMLを摘要,プライベートプレビュー,https://aws.amazon.com/jp/lookout-for-equipment/,2020/12/26
+新サービス,Amazon Lookout for Vision,画像から欠陥・異常を検出,パブリックプレビュー,https://aws.amazon.com/jp/lookout-for-vision/,2020/12/26
+新サービス,AWS Panorama Appliance,現地に設置する画像解析システム,パブリックプレビュー,https://aws.amazon.com/jp/panorama/,2020/12/26
+新サービス,Amazon Monitron,センサー+ゲートウェイの完成品,GA（東京以外）,https://aws.amazon.com/jp/monitron/,2020/12/26
+新機能,AWS IoT SiteWise,テーブルチャートが利⽤可能に,GA,https://aws.amazon.com/jp/iot-sitewise/,2020/12/26
+新サービス,AWS IoT Core Device Advisor,フルマネージドのデバイステスト,パブリックプレビュー,https://aws.amazon.com/jp/about-aws/whats-new/2020/12/aws-iot-core-device-advisor-now-available-in-preview/,2020/12/26
+新機能,AWS IoT Core,Apache Kafkaへのデータ配信に対応,GA,https://aws.amazon.com/jp/about-aws/whats-new/2020/12/aws-iot-core-adds-the-ability-to-deliver-data-to-apache-kafka-clusters/,2020/12/26
+新機能,AWS IoT Core,Amazon Sidewalkに対応,GA（東京以外）,https://aws.amazon.com/jp/about-aws/whats-new/2020/12/announcing-amazon-sidewalk-integration-for-aws-iot-core/,2020/12/26
+新機能,AWS IoT SiteWise,対応プロトコルを拡充,GA,https://aws.amazon.com/jp/about-aws/whats-new/2020/12/aws-iot-sitewise-launches-support-for-modbus-tcp-ethernet-ip-protocols/,2020/12/26
+新サービス,AWS IoT SiteWise Edge,エッジ側でSiteWiseの前処理を行う,パブリックプレビュー,https://aws.amazon.com/jp/about-aws/whats-new/2020/12/announcing-aws-iot-sitewise-edge-preview/,2020/12/26
+新サービス,AWS IoT SiteWise plugin for Grafana,SiteWiseからGrafanaに連携して可視化,GA,https://aws.amazon.com/jp/about-aws/whats-new/2020/12/introducing-aws-iot-sitewise-plugin-for-grafana/,2020/12/26
+新機能,AWS IoT Analytics,Apache Parquet形式をサポート,GA,https://aws.amazon.com/jp/about-aws/whats-new/2020/12/aws-iot-analytics-store-processed-iot-data-data-stores-apache-parquet-format/,2020/12/26
+新機能,AWS IoT Analytics,エラーハンドリング機能を強化,GA,https://aws.amazon.com/jp/about-aws/whats-new/2020/12/enhanced-error-handling-capabilities-in-aws-iot-analytics-data-processing-pipelines/,2020/12/26
+新機能,AWS IoT Device Management,Fleet Hub（フリート管理、可視化）,パブリックプレビュー,https://aws.amazon.com/jp/about-aws/whats-new/2020/12/aws-iot-device-management-introduces-fleet-hub/,2020/12/26
+新サービス,AWS IoT Device Defender ML Detect,MLによる自動異常検出,GA,https://aws.amazon.com/jp/about-aws/whats-new/2020/12/announcing-aws-iot-device-defender-ml-detect-public-preview/,2020/12/26
+新機能,AWS IoT Device Defender,カスタムメトリクス対応,GA,https://aws.amazon.com/jp/about-aws/whats-new/2020/12/aws-iot-device-defender-adds-support-for-custom-metrics/,2020/12/26
+新機能,AWS IoT Events/SiteWise,アラームに対応,パブリックプレビュー,https://aws.amazon.com/jp/about-aws/whats-new/2020/12/announcing-support-alarms-preview-aws-iot-events-aws-iot-sitewise/,2020/12/26
+新機能,AWS SiteWise,アラームに対応,パブリックプレビュー,https://aws.amazon.com/jp/about-aws/whats-new/2020/12/announcing-support-alarms-preview-aws-iot-events-aws-iot-sitewise/,2020/12/26
+新機能,FreeRTOS,セルラーLTE-Mをサポート,パブリックプレビュー,https://aws.amazon.com/jp/about-aws/whats-new/2020/12/freertos-adds-cellular-lte-m-library-support-cellular-iot-based-applications/,2020/12/26
+新機能,AWS IoT Device SDK for Embedded C,バージョン202012.00リリース,GA,https://aws.amazon.com/jp/about-aws/whats-new/2020/12/aws-iot-sdk-for-embedded-c-version-202012-00-includes-over-the-air-update-ota-library-and-pkcs-number-11-implementation/,2020/12/26
+新サービス,AWS CloudShell,コンソールから起動可能なシェル,GA,https://aws.amazon.com/jp/blogs/news/aws-cloudshell-command-line-access-to-aws-resources/,2020/12/26
+新機能,AWS SDK for JavaScript,Version 3提供開始,GA,https://aws.amazon.com/jp/about-aws/whats-new/2020/12/aws-sdk-javascript-version-3-generally-available/,2020/12/26
+新サービス,Amazon Forecast Weather Index,気象情報をForecastに利用,GA,https://aws.amazon.com/jp/about-aws/whats-new/2020/12/announcing-amazon-forecast-weather-index-include-local-weather-increase-forecasting-model-accuracy/,2020/12/27
+新機能,Amazon Corretto 11,Linux on ARM32 および Windows on x86サポート,GA,https://aws.amazon.com/jp/about-aws/whats-new/2020/12/announcing-the-general-availability-of-amazon-corretto-11-for-arm32-linux-on-arm32-and-for-windows-on-x86-32bit/,2020/12/27
+新機能,AWS IoT Device Tester for FreeRTOS,FreeRTOS 202012.00サポート,GA,https://aws.amazon.com/jp/about-aws/whats-new/2020/12/updated-aws-iot-device-tester-freertos-aws-iot-device-tester-aws-iot-greengrass-now-available/,2020/12/27
+新機能,AWS IoT Device Tester for AWS IoT Greengrass,Greengrass Version 2サポート,GA,https://aws.amazon.com/jp/about-aws/whats-new/2020/12/updated-aws-iot-device-tester-freertos-aws-iot-device-tester-aws-iot-greengrass-now-available/,2020/12/27
+新機能,FreeRTOS,OTA時の複数ファイル形式サポート,GA,https://aws.amazon.com/jp/about-aws/whats-new/2020/12/freertos-now-supports-over-the-air-update-ota-for-multiple-file-types/,2020/12/27
