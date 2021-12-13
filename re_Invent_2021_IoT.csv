@@ -1,0 +1,18 @@
+種別,名称,内容,ステータス,URL,追加日
+新サービス,AWS IoT TwinMaker,ビル、工場、産業設備、製造ラインなど実社会のシステムのデジタルツインを短期間で容易に構築可能な新サービスにより、運用効率の向上とダウンタイムの削減を実現するアプリケーションの構築を支援,Preview,https://aws.amazon.com/jp/about-aws/whats-new/2021/12/aws-announces-aws-iot-twinmaker/,2021/12/13
+新機能,FreeRTOS Quick Connect,FreeRTOSデバイスを簡単にAWSに接続するメカニズムの提供,GA,https://freertos.org/quickconnect/index.html,2021/12/13
+新機能,Amazon SQS,メッセージをデッドレターキューからソースキューへ効率的にリドライブできるように,GA,https://aws.amazon.com/jp/about-aws/whats-new/2021/12/amazon-sqs-dead-letter-queue-management-experience-queues/,2021/12/13
+新機能,AWS IoT Device Management Fleet Indexing,データソースの追加,Preview,https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-iot-device-management-fleet-indexing-additional-data-sources-preview/,2021/12/13
+新サービス,AWS IoT FleetWise,自動車メーカーが車両データをほぼリアルタイムで収集、変換、クラウドに転送する作業をより簡単かつ費用対効果の高い方法で行えるようにする,Preview,https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-iot-fleetwise-transferring-vehicle-data-cloud/,2021/12/13
+新サービス,AWS IoT ExpressLink,AWS パートナーによって開発および提供されているさまざまなハードウェアモジュールを強化する接続ソフトウェア,Preview,https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-iot-expresslink-development/,2021/12/13
+新サービス,AWS Private 5G,企業が施設内でプライベート 5G モバイルネットワークを設定および拡張するまでかかる期間を数か月から数日に短縮する新しいマネージドサービス,Preview(US Only),https://aws.amazon.com/jp/about-aws/whats-new/2021/11/preview-aws-private-5g/,2021/12/13
+新サービス,AWS IoT RoboRunner,ロボットのフリートがシームレスに連携するのに役立つアプリケーションをエンタープライズが簡単に構築しデプロイできるようにする,Preview,https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-iot-roborunner-available-preview/,2021/12/13
+新機能,Amazon Timestream,スケジュールされたクエリ、複数測定レコード、マグネティックストレージ書き込み,GA,https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-timestream-scheduled-queries-multi-measure-records-magnetic-storage-writes/,2021/12/13
+新機能,AWS IoT SiteWise,産業データ用のホットストレージとコールドストレージの階層をサポート,GA,https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-iot-sitewise-storage-tiers-industrial-data/,2021/12/13
+新機能,AWS IoT Greengrass,AWS Systems Manager を使用した AWS IoT Greengrass エッジデバイスのセキュアな管理,GA,https://aws.amazon.com/jp/about-aws/whats-new/2021/11/securely-manage-aws-iot-greengrass-edge-devices-aws-systems-manager/,2021/12/13
+新サービス,Greengrass Software Catalog,AWS IoT Greengrass ソフトウェアコンポーネントのコレクション,GA,https://github.com/aws-greengrass/aws-greengrass-software-catalog,2021/12/13
+新機能,AWS IoT SiteWise,事前にアセットモデルやアセットを作成することなく、機器データを取り込むことができる／あるアセットから別のアセットにデータストリームを柔軟に再割り当てできる／ある本番稼働用サイトに関連付けられたデータストリームへのアクセス権をユーザーに付与し、同じ AWS アカウント内の別の本番稼働用サイトに関連付けられたデータストリームへのアクセスを制限できる,GA,https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-iot-sitewise-three-enhancements-ingest-data-cloud/,2021/12/13
+新機能,AWS Managed Templates for IoT Jobs,一般的なリモートオペレーションを AWS IoT コンソールから直接、標準化された方法で IoT デバイスのフリートにデプロイできる,GA,https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-managed-templates-iot-jobs-deploy-operations-iot-fleets/,2021/12/13
+新機能,AWS IoT Core Device Advisor,複数のテストスイートを同時に実行する機能のサポート,GA,https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-iot-core-device-advisor-new-features/,2021/12/13
+新機能,AWS IoT Core,IoT Credential Provider エンドポイントでマルチアカウント登録証明書のサポートを開始,GA,https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-iot-core-multi-account-certificates-iot-provider-endpoint/,2021/12/13
+新機能,FreeRTOS,セルラー LTE-M インターフェイスライブラリのサポート,GA,https://aws.amazon.com/jp/about-aws/whats-new/2021/11/freertos-cellular-lte-m-interface-library-generally-available/,2021/12/13
